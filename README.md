@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub profile — the place where _"It works on my machine™"_ becomes a lifestyle.
+💼 **Senior Developer / Tech Lead** by day, mild keyboard warrior by night.  
 
-<!--
-**kevinadnomix/kevinadnomix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛸 Contact Me
+- 🐦 Twitter: [@kevsnams](https://twitter.com/kevsnams)
+- 🐙 GitHub: [@kevinadnomix](https://github.com/kevinadnomix)
+- 💼 LinkedIn: [Kevin Namuag](https://www.linkedin.com/in/kevin-namuag/) 
+- 📫 Email: `kevinyunamuag@gmail.com`
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎖️ Achievement Unlocked: Badge Hoarder
+
+![Badge 1](https://img.shields.io/badge/Badge-WhoEvenReadsThis-green)
+![Badge 2](https://img.shields.io/badge/Badge-ProudDebugger-blue)
+![Badge 3](https://img.shields.io/badge/Badge-Coffee%20Addict-critical)
